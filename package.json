@@ -1,0 +1,17 @@
+{
+  "name": "latihan1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.3",
+    "url": "^0.11.0",
+    "uuid": "^7.0.3"
+  }
+}
